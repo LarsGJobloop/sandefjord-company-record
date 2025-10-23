@@ -2,7 +2,6 @@
 teknologi:
   - JavaScript
   - C#
-oppstart: 2017
 ---
 # JobLoop
 
